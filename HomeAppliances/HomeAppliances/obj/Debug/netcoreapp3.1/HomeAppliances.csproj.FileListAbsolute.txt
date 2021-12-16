@@ -1,0 +1,13 @@
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\bin\Debug\netcoreapp3.1\HomeAppliances.exe
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\bin\Debug\netcoreapp3.1\HomeAppliances.deps.json
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\bin\Debug\netcoreapp3.1\HomeAppliances.runtimeconfig.json
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\bin\Debug\netcoreapp3.1\HomeAppliances.runtimeconfig.dev.json
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\bin\Debug\netcoreapp3.1\HomeAppliances.dll
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\bin\Debug\netcoreapp3.1\HomeAppliances.pdb
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\obj\Debug\netcoreapp3.1\HomeAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\obj\Debug\netcoreapp3.1\HomeAppliances.AssemblyInfoInputs.cache
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\obj\Debug\netcoreapp3.1\HomeAppliances.AssemblyInfo.cs
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\obj\Debug\netcoreapp3.1\HomeAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\obj\Debug\netcoreapp3.1\HomeAppliances.dll
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\obj\Debug\netcoreapp3.1\HomeAppliances.pdb
+C:\Users\Shilpi_Sinha\source\repos\HomeAppliances\HomeAppliances\obj\Debug\netcoreapp3.1\HomeAppliances.genruntimeconfig.cache
